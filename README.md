@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hui-shi. I'm a Junior at Boston University majoring in Biochemistry and minoring in Computer Science.
+- 👋 Hi, I’m @hui-shi. I'm a Senior at Boston University majoring in Biochemistry and minoring in Computer Science.
 - 👀 I’m interested in learning more about different types of fields in CS and the intersection of healthcare and tech.
 - 🌱 I’m currently learning more about different CS languages and topics. My favorite language, though, is Java.
 - 💞️ I’m looking to collaborate on ...
