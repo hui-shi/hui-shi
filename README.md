@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hui-shi. I'm graduated from Boston University with a BA Honors in Biochemistry and minoring in Computer Science.
-- 👀 I’m interested in learning more about different types of fields in CS and the intersection of healthcare and tech.
-- 🌱 I’m currently learning more about different CS languages and topics. My favorite language, though, is Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @hui-shi. I graduated from Boston University with a BA Honors in Biochemistry and minor in Computer Science.
+- 👀 I aim to be at the intersection of healthcare and tech.
+- 🌱 I’m love learning more about different languages and applications. My favorite language is Java.
+- 🧠 My research focuses on using functional MRI to design models that predict patient recovery post traumatic brain injuries and cardiac arrests.  
+- 📫 Feel free to connect at www.linkedin.com/in/chips-ahui
 
 <!---
 hui-shi/hui-shi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
